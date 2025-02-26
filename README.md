@@ -3,12 +3,14 @@ Behamics Node.js Tasks
 A REST API built with Node.js, Express.js, and MongoDB to manage user authentication and car rentals.
 
 Features
+
 User Registration & Authentication
 View Logged-in User Profile
 List & Filter Available Rental Cars
 Token-based Authentication
 
 Technologies Used
+
 Node.js - npm i node
 Express.js - npm i express
 MongoDB (MongoClient) - npm i mongodb
